@@ -5,8 +5,4 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm from Brazil
 
-<div>
-  <a href="https://github.com/George-Lucas-Lazarim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=George-Lucas-Lazarim)](https://github.com/anuraghazra/github-readme-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=George-Lucas-Lazarim_icons=true"/>
-</div>
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
