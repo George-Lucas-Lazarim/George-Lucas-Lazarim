@@ -8,5 +8,5 @@
 <div>
   <a href="https://github.com/George-Lucas-Lazarim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=George-Lucas-Lazarim)](https://github.com/anuraghazra/github-readme-stats"/>
-  <img height="180em" src=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=George-Lucas-Lazarim_icons=true"/>
 </div>
