@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm from Brazil
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/George-Lucas-Lazarim/Login/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <a href="https://github.com/George-Lucas-Lazarim">
