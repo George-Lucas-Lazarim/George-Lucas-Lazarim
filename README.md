@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on HTML5 and CSS3
-- 🌱 I’m currently learning HTML5 and CSS3 with Gustavo Guanabara and others Youtubers!
+- 🔭 I’m currently working on HTML5, CSS3, TailWindCSS and JS
+- 🌱 I’m currently learning HTML5, CSS3, TailWindCSS and JS with Gustavo Guanabara, Tiago Matos and others youtubers
 - 📫 How to reach me: georgelucas1402@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm from Brazil
