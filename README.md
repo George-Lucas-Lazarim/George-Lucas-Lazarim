@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on C, MATLAB and Java
-- 🌱 I’m currently learning C, MATLAB and Java in UNESP-Sorocaba
+- 🔭 I’m currently working on C, MATLAB, Java and LaTeX
+- 🌱 I’m currently learning C, MATLAB, Java and LaTeX in UNESP-Sorocaba
 - 📫 How to reach me: georgelucas1402@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm from Brazil
@@ -13,4 +13,5 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" height="60" width="80" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"
 </div>
