@@ -5,10 +5,12 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm from Brazil
 
-<div>
-  <a href="https://github.com/George-Lucas-Lazarim">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Lucas-Lazarim&layout=compact&langs_count=16&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=George-Lucas-Lazarim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div style="display: inline_block"><br>
+  <p align="center">
+    <a href="https://github.com/George-Lucas-Lazarim">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Lucas-Lazarim&layout=compact&langs_count=16&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=George-Lucas-Lazarim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </p>
 </div>
 <div style="display: inline_block"><br>
   <p align="center">
