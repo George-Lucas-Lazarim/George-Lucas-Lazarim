@@ -15,7 +15,7 @@
 <div style="display: inline_block"><br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,latex,matlab,linux,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=java,latex,c,linux,raspberrypi" />
   </a>
 </p>
 </div>
