@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on C, MATLAB, Java and LaTeX
-- 🌱 I’m currently learning C, MATLAB, Java and LaTeX in UNESP-Sorocaba
+- 🔭 I’m currently working on C, Java, Python and LaTeX
+- 🌱 I’m currently learning C, Java, Python and LaTeX in UNESP-Sorocaba
 - 📫 How to reach me: georgelucas1402@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm from Brazil
